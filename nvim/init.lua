@@ -2,4 +2,5 @@ require("nbk.plugins-setup")
 require("nbk.core.options")
 require("nbk.core.keymaps")
 require("nbk.core.colorscheme")
-
+require("nbk.plugins.nvim-tree")
+require("nbk.plugins.comment")
